@@ -1,0 +1,68 @@
+i{
+    width: 10px;
+}
+
+.firstline{
+    display: flex;
+    
+}
+
+.firstlineright
+{
+    float: inline-end;
+    font-size: 25px;
+    margin-top: 15px;
+}
+.firstlineleft{
+    width: 910px;
+}
+
+body{
+    font-family: open sans;
+    margin: 0cm;
+}
+
+.iconohtml{
+    font-size: 35px;
+    float: left;
+    margin-right: 25px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.like{
+    margin-right: 20px;
+    margin-left: 5px;
+}
+
+.share{
+    margin-left: 20px;
+   
+}
+
+.icons{
+    width: 900px;
+}
+
+.interactionbar{
+    display: flex;
+    margin-top: 15px;
+}
+
+.icons{
+    font-size: 30px;
+}
+
+.iconright{
+    font-size: 30px;
+}
+
+.container{
+    margin: auto;
+    width: 950px;
+}
+
+.texto{
+  
+    width: 950px;
+}
